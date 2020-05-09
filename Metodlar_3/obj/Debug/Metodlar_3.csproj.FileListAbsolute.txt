@@ -18,3 +18,13 @@ C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_3\Metodlar
 C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.csproj.CoreCompileInputs.cache
 C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.exe
 C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.pdb
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\bin\Debug\Metodlar_3.exe.config
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\bin\Debug\Metodlar_3.exe
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\bin\Debug\Metodlar_3.pdb
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.csprojAssemblyReference.cache
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.Form1.resources
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.Properties.Resources.resources
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.csproj.GenerateResource.cache
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.csproj.CoreCompileInputs.cache
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.exe
+D:\Applications\C#\Form Applications\Metodlar_3\Metodlar_3\obj\Debug\Metodlar_3.pdb
